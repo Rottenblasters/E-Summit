@@ -2971,7 +2971,7 @@ header.searh-header-404 .page-title {
       position: relative;
       width: 9px;
       height: 1px;
-      background: #7c529c; }
+      background: #6456ff; }
     .meta-wrapper span:last-child:after {
       display: none; }
   .meta-wrapper .author_post img {
@@ -11316,7 +11316,7 @@ html .wpb_content_element {
       top: 0%;
       left: 0%;
       border-radius: 50%;
-      border: 0.5px solid #7c529c;
+      border: 0.5px solid #6456ff;
       opacity: 0;
       transform: scale(1); }
     .genesisexpo_module_videobox .videobox_link:hover .videobox_circle_1,
