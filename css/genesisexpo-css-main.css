@@ -9999,7 +9999,7 @@ a .wgl-icon {
       font-weight: inherit;
       font-size: inherit; }
   .wgl_module_team .team-item_info {
-    margin-top: -30px;
+    margin-top: 20px;
     position: relative;
     z-index: 1; }
   .wgl_module_team .team-info_icons {
