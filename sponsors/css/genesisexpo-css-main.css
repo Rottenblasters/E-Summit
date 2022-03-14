@@ -11728,3 +11728,12 @@ html .wpb_content_element {
   background-position: 100% !important; }
 
 /*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
+.slick-track{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.genesisexpo_module_clients.item_anim-shadow .clients_image img {
+  padding: 0px;
+}
