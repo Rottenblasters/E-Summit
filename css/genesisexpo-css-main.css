@@ -11738,7 +11738,8 @@ html .wpb_content_element {
  justify-content: center;
 }
 .event-container {
-  width: 50%;
+  width: fit-content;
+  margin: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -11749,12 +11750,14 @@ html .wpb_content_element {
  align-items: center;
  margin: 40px 0px;
  padding: 20px;
+ width: 100%;
  height: fit-content;
  width: fit-content;
 }
 .events-name {
   font-size: 2rem;
   color: #b84eff;
+  text-align: center;
 }
 .organisers {
   display: flex;
@@ -11768,15 +11771,14 @@ html .wpb_content_element {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 50%;
-  margin: 10px auto;
-  padding: 10px;
+  padding: 20px;
+  width: fit-content;
 }
 .organiser-name {
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 120%;
 }
 .organiser-contact {
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 120%;
 }
