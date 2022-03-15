@@ -11749,9 +11749,8 @@ html .wpb_content_element {
  align-items: center;
  margin: 40px 0px;
  padding: 20px;
+ height: fit-content;
  width: fit-content;
- border-radius: 20px;
- box-shadow: 0 1rem 2rem hsl(0 0% 0% / 20%);
 }
 .events-name {
   font-size: 2rem;
@@ -11771,6 +11770,7 @@ html .wpb_content_element {
   justify-content: center;
   width: 50%;
   margin: 10px auto;
+  padding: 10px;
 }
 .organiser-name {
   font-size: 1.2rem;
